@@ -248,18 +248,6 @@ HALLOWEEN-CAT-GHOST/
   background: rgba(255, 255, 255, 0.7); /* More transparent */
 }
 ```
-
-### Add More Elements
-
-Want to add more spookiness?
-```html
-
-
-
-```
-
-Then style and animate in `style.css`!
-
 ---
 
 ## 💡 What I Learned
@@ -284,21 +272,6 @@ Building this scene taught me:
 - [ ] **Sound Effects** - Optional spooky audio
 - [ ] **Interactive Elements** - Click to scare the cat
 - [ ] **Different Scenes** - Day/night toggle
-
----
-
-## 📚 Learn More About CSS Animations
-
-Want to master CSS animations like this?
-
-**Check out:** [CSS Animation Book](https://www.mirayatechstore.com/l/css-animations?layout=profile) 📘
-
-Learn:
-- Nested element animations
-- Complex timing coordination
-- Layered visual effects
-- Performance optimization
-- Creative animation techniques
 
 ---
 
