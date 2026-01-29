@@ -1,6 +1,6 @@
 # 🎃 Halloween Window Cat & Ghost Animation 👻
 
-A spooky, atmospheric Halloween scene featuring an animated black cat sitting by a window with a floating ghost passing by. Built entirely with **HTML and CSS**—no JavaScript, just pure CSS magic bringing this cozy yet eerie Halloween night to life.
+A spooky, atmospheric Halloween scene featuring an animated black cat sitting by a window with a floating ghost passing by. Built entirely with **HTML and CSS**, no JavaScript, just pure CSS magic bringing this cozy yet eerie Halloween night to life.
 
 ---
 
@@ -347,8 +347,6 @@ MIT License - Free to use for learning, experimentation, and Halloween fun!
 ## 🔗 Links
 
 - **Repository**: [github.com/SergioSediq/halloween-window-cat](https://github.com/SergioSediq/halloween-window-cat)
-- **Live Demo**: [Add your deployment link]
-- **CSS Animation Book**: [mirayatechstore.com](https://www.mirayatechstore.com/l/css-animations?layout=profile)
 
 ---
 
